@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplexJoining", "ComplexJoining\ComplexJoining.csproj", "{21B7CB15-8097-4D54-90D1-6738E4967B68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21B7CB15-8097-4D54-90D1-6738E4967B68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21B7CB15-8097-4D54-90D1-6738E4967B68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21B7CB15-8097-4D54-90D1-6738E4967B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21B7CB15-8097-4D54-90D1-6738E4967B68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B9E4AFE-0FA1-4AC9-B9CE-5B4B83E3472F}
+	EndGlobalSection
+EndGlobal
